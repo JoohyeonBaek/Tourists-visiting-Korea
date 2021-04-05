@@ -1,7 +1,8 @@
 # Tourists-visiting-Korea
+<h1>K-Digital 3 Team Final Project</h1>
 관광객 데이터를 통한 각종 정보 및 편의기능 제공
 
-<h1>K-Digital 3 Team Final Project</h1>
+
 
 * 한국관광수입개선을 위한 데이터분석
 * 한국 관광지 소비 변화 데이터 분석
