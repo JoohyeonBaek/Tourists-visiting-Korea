@@ -1,6 +1,7 @@
 # Tourists-visiting-Korea
-<h1>K-Digital 3 Team Final Project</h1>
 관광객 데이터를 통한 각종 정보 및 편의기능 제공
+K-Digital 3 Team Final Project
+
 
 
 
