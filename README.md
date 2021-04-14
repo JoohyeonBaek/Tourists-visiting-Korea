@@ -3,7 +3,7 @@
 * K-Digital Final Project
 * 개발 기간 : 2021.03.22 ~ 2021.05.03 (진행중)
 * 개발 인원 : 7명
-
+* Python, R, Django
 
 
 
